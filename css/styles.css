@@ -8,7 +8,7 @@
   /* Card BG */
   --very-dark-blue: hsl(216, 50%, 16%);
   /* line */
-  --very-dark-blue: hsl(215, 32%, 27%);
+  --dark-blue: hsl(215, 32%, 27%);
   --white: hsl(0, 0%, 100%);
 }
 
@@ -207,7 +207,7 @@ img {
   display: flex;
   align-items: center;
   padding-top: 1.5rem;
-  border-top: 1px solid var(--soft-blue);
+  border-top: 1px solid var(--dark-blue);
 }
 
 .author-avatar {
