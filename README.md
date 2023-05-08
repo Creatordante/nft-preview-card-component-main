@@ -15,8 +15,8 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### Links
 
-- Solution URL: [https://github.com/Creatordante/product-preview-card-component-main](https://github.com/Creatordante/product-preview-card-component-main)
-- Live Site URL: [https://product-preview-card-component-cd.netlify.app/](https://product-preview-card-component-cd.netlify.app/)
+- Solution URL: [https://github.com/Creatordante/nft-preview-card-component-main](https://github.com/Creatordante/nft-preview-card-component-main)
+- Live Site URL: [https://nft-preview-card-component-creatordan.netlify.app/](https://nft-preview-card-component-creatordan.netlify.app/)
 
 ### Built with
 
